@@ -1,7 +1,7 @@
 import axios from "axios";
 
 
-const API_BASE_URL = "http://localhost:30080/back1";  
+const API_BASE_URL = "http://localhost:50.17.70.100/back1";  
 
 
 export const login = async (username, password) => {
